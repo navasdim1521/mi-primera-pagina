@@ -1,0 +1,22 @@
+.divdelmedio
+{
+    margin:30px;
+    
+    width: 200px;
+    height: 200px; 
+    background-color:darkgreen ;
+}
+.divinterno{
+    background-color: blue;
+   
+    
+    height: 200px;
+    width: 200px;
+}
+.divexterno{
+    background-color: rgb(211, 211, 18);
+    margin:30px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
